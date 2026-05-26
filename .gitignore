@@ -1,0 +1,22 @@
+# Dataset — não versionar imagens (>2 GB)
+hyamd-high-resolution-fundus-image-dataset-for-age-related-macular-degeneration-amd-diagnosis-1.0.0/Images/
+
+# Outputs gerados pelo treino
+outputs/
+
+# Modelos treinados
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+venv/
+.env/

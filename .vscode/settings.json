@@ -1,0 +1,6 @@
+{
+  "problems.decorations.enabled": false,
+  "python.analysis.diagnosticMode": "openFilesOnly",
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticsEnabled": false
+}
